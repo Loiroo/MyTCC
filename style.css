@@ -15,9 +15,15 @@ height: 100%;
 }
 
 .uscs{ 
-    max-width: 200px;
-    float:right;
-    margin-top: 0px;
-margin-right: 0px;
-
+right: 0px;
+    top: 605px; 
+    position:absolute;
+   
 }
+
+.forgetsenha{ 
+    right: 150px;
+    top: 435px;
+        position:absolute;
+       
+    }
